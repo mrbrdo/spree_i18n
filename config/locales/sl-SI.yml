@@ -302,14 +302,10 @@ sl-SI:
       refund:
       save:
       update: Posodobi
-    activate: Activate
     active: Objavljeno
     add: Dodaj
-    add_action_of_type: Add action of type
     add_country: Dodaj Državo
     add_coupon_code:
-    add_new_header: Add New Header
-    add_new_style: Add New Style
     add_one:
     add_option_value: Dodaj izbiro
     add_product: Dodaj izdelek
@@ -320,7 +316,6 @@ sl-SI:
     add_stock_management:
     add_to_cart: Dodaj v košarico
     add_variant:
-    additional_item: Additional Item Cost
     address1:
     address2:
     adjustable:
@@ -402,7 +397,6 @@ sl-SI:
     backorderable_default:
     backordered:
     backorders_allowed:
-    balance_due: Balance Due
     base_amount:
     base_percent:
     bill_address: Naslov za Račun
@@ -416,7 +410,6 @@ sl-SI:
     canceled_at:
     canceler:
     cannot_create_customer_returns:
-    cannot_create_payment_without_payment_methods: You cannot create a payment for an order without any payment methods defined.
     cannot_create_returns: Ne morem generirati vračil, ker naročilo še ni bilo poslano.
     cannot_perform_operation: Ni mogoče izvesti zahtevane operacije
     cannot_set_shipping_method_without_address:
@@ -448,7 +441,6 @@ sl-SI:
     close_all_adjustments:
     code: Koda
     company:
-    complete: complete
     configuration: Nastavitev
     configurations: Nastavitve
     confirm: Potrdi
@@ -538,7 +530,6 @@ sl-SI:
     discount_amount: Znesek popusta
     dismiss_banner:
     display: Prikaži
-    display_currency: Display currency
     doesnt_track_inventory:
     edit: Uredi
     editing_resource:
@@ -611,9 +602,8 @@ sl-SI:
     forgot_password: Ne spomnim se gesla
     free_shipping: Brezplačna dostava
     free_shipping_amount:
-    front_end: Front End
+    front_end: Uporabniški Vmesnik
     gateway: Ponudnik
-    gateway_config_unavailable: Gateway unavailable for environment
     gateway_error: Napaka ponudnika
     general: Splošno
     general_settings: Splošne nastavitve
@@ -678,12 +668,10 @@ sl-SI:
       path:
     last_name: Priimek
     last_name_begins_with: Priimek se začne z
-    learn_more: Learn More
     lifetime_stats:
     line_item_adjustments:
     list: Seznam
     loading: Nalagam
-    locale_changed: Locale Changed
     location:
     lock:
     log_entries:
@@ -703,19 +691,15 @@ sl-SI:
     manage_variants:
     manual_intervention_required:
     master_price: Osnovna cena
-    match_choices:
-      all: All
-      none: None
     max_items: Max Izdelkov
     member_since:
     memo:
     meta_description: Meta opis
     meta_keywords: Meta ključne besede
     meta_title:
-    metadata: Metadata
+    metadata: Metapodatki
     minimal_amount: Minimalni znesek
     month: Mesec
-    more: More
     move_stock_between_locations:
     my_account: Moj račun
     my_orders: Moja naročila
@@ -753,7 +737,7 @@ sl-SI:
     new_tax_rate: Dodaj davčno stopnjo
     new_taxon: Dodaj takson
     new_taxonomy: Dodaj taksonomijo
-    new_tracker: Nov Tracker
+    new_tracker: Nov Sledilnik
     new_user: Dodaj uporabnika
     new_variant: Dodaj varianto
     new_zone: Dodaj območje
@@ -788,15 +772,15 @@ sl-SI:
     on_hand: Na zalogi
     open:
     open_all_adjustments:
-    option_type: Option Type
+    option_type: Možnost izbire
     option_type_placeholder:
     option_types: Možnosti izbire
-    option_value: Option Value
-    option_values: Izbire
+    option_value: Vrednost izbire
+    option_values: Vrednosti izbire
     optional:
     options: Možnosti
     or: ali
-    or_over_price: "%{price} or over"
+    or_over_price: "%{price} ali več"
     order: Naročilo
     order_adjustments:
     order_already_updated:
@@ -835,7 +819,6 @@ sl-SI:
       considered_risky:
       delivery: dostava
       payment: plačilo
-      resumed: resumed
       returned: vračilo
     order_summary: Povzetek naročila
     order_sure_want_to: Ali ste prepričani da želite %{event} to naročio?
@@ -851,7 +834,7 @@ sl-SI:
       previous_page:
       truncate: "…"
     password: Geslo
-    paste: Paste
+    paste: Prilepi
     path: Pot
     pay: plačaj
     payment: Plačilo
@@ -890,7 +873,7 @@ sl-SI:
     pre_tax_refund_amount:
     pre_tax_total:
     preferred_reimbursement_type:
-    presentation: Prikazano ime
+    presentation: Prikazno ime
     previous: Nazaj
     previous_state_missing:
     price: Cena
@@ -932,7 +915,6 @@ sl-SI:
       match_policies:
         all: Ujemaj se s katerim koli izmed teh pravil
         any: Ujemaj se z vsemi temi pravili
-    promotion_rule: Promotion Rule
     promotion_rule_types:
       first_order:
         description: Mora biti strankino prvo naročilo
@@ -940,9 +922,6 @@ sl-SI:
       item_total:
         description: Naročilo skupaj izpolnjuje te kriterije
         name: Izdelki skupaj
-      landing_page:
-        description: Customer must have visited the specified page
-        name: Landing Page
       one_use_per_user:
         description:
         name:
@@ -973,7 +952,6 @@ sl-SI:
     provider_settings_warning: "Če spreminjate tip ponudnika, morate najprej shraniti predno lahko urejate nastavitve ponudnika"
     qty: Količina
     quantity:
-    quantity_returned: Quantity Returned
     quantity_shipped: Poslana količina
     quick_search:
     rate: Stopnja
@@ -1047,7 +1025,6 @@ sl-SI:
     rules:
     safe:
     sales_total: Skupaj
-    sales_total_description: Sales Total For All Orders
     sales_totals:
     save_and_continue: Shrani in nadaljuj
     save_my_address:
@@ -1058,7 +1035,6 @@ sl-SI:
     search_results: Iskalni razultati za '%{keywords}'
     searching: Iskanje
     secure_connection_type: Tip varne povezave
-    security_settings: Security Settings
     select: Izberi
     select_a_return_authorization_reason:
     select_a_stock_location:
@@ -1077,16 +1053,11 @@ sl-SI:
     shipment_details:
     shipment_mailer:
       shipped_email:
-        dear_customer: Dear Customer,\n
-        instructions: Your order has been shipped
-        shipment_summary: Shipment Summary
-        subject: Shipment Notification
-        thanks: Thank you for your business.
-        track_information: 'Tracking Information: %{tracking}'
+        track_information: 'Sledenje: %{tracking}'
         track_link:
     shipment_state: Stanje pošiljke
     shipment_states:
-      backorder: backorder
+      backorder: naročeno
       canceled:
       partial: delno
       pending: v teku
@@ -1120,9 +1091,7 @@ sl-SI:
     skus:
     slug:
     source:
-    special_instructions: Special Instructions
     split:
-    spree_gateway_error_flash_for_checkout: There was a problem with your payment information. Please check your information and try again.
     ssl:
       change_protocol:
     start: Od
@@ -1182,11 +1151,6 @@ sl-SI:
     subtotal: Skupaj
     subtract: Odštej
     success:
-    successfully_created: "%{resource} has been successfully created!"
-    successfully_refunded:
-    successfully_removed: "%{resource} has been successfully removed!"
-    successfully_signed_up_for_analytics:
-    successfully_updated: "%{resource} has been successfully updated!"
     summary:
     tax: DDV
     tax_categories: Davčne kategorije
@@ -1204,21 +1168,15 @@ sl-SI:
       match_all:
       match_any:
     taxonomies: Taksonomije
-    taxonomy: Taxonomy
+    taxonomy: Taksonomija
     taxonomy_edit: Uredi taksonomijo
     taxonomy_tree_error: Zahtevana sprememba ni bila sprejeta zato je bila drevesna struktura povrnjena v prejšnje stanje, prosimo poskusite znova.
     taxonomy_tree_instruction: "* Ob desnem kliku na vejo v drevesni strukturi se odpre meni za dodajanje, sortiranje in brisanje elementov"
     taxons: Taksoni
     test: Test
-    test_mailer:
-      test_email:
-        greeting: Congratulations!
-        message: If you have received this email, then your email settings are correct.
-        subject: Testmail
     test_mode: Testni način
     thank_you_for_your_order: Hvala za zaupanje. Prosimo natisnite si kopijo te potrditvene strani za lastno referenco.
     there_are_no_items_for_this_order:
-    there_were_problems_with_the_following_fields: There were problems with the following fields
     this_order_has_already_received_a_refund:
     thumbnail: Mala slika
     tiered_flat_rate:
@@ -1245,7 +1203,7 @@ sl-SI:
     type_to_search: Vrsta iskanja
     unable_to_connect_to_gateway: Povezava do ponudnika plačilnih storitev ni uspela
     unable_to_create_reimbursements:
-    under_price: Under %{price}
+    under_price: Pod %{price}
     unlock:
     unrecognized_card_type: Neznan tip kartice
     unshippable_items:
@@ -1255,7 +1213,6 @@ sl-SI:
     use_app_default:
     use_billing_address: Uporabi naslov za račun
     use_new_cc: Uporabi drugo kreditno karico
-    use_s3: Use Amazon S3 For Images
     user: Uporabnik
     user_rule:
       choose_users: Izberite uporabnike
@@ -1279,7 +1236,6 @@ sl-SI:
     what_is_this: Kaj je to?
     width: "Širina"
     year: Leto
-    you_have_no_orders_yet: You have no orders yet.
     your_cart_is_empty: Vaša nakupovalna košarica je prazna
     your_order_is_empty_add_product:
     zip: Poštna številka
