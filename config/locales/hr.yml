@@ -1609,14 +1609,14 @@ hr:
     order_line_items: Stavke narudžbe
     order_mailer:
       cancel_email:
-        dear_customer: Poštovani kupče,\n
+        dear_customer: Poštovani kupče,
         instructions: Vaša je narudžba OTKAZANA. Molimo sačuvajte ove podatke o otkazivanju
           za svoju evidenciju.
         order_summary_canceled: Sažetak narudžbe [OTKAZANO]
         subject: Otkazivanje narudžbe
         thanks: Hvala ti što
       confirm_email:
-        dear_customer: Poštovani kupče,\n
+        dear_customer: Poštovani kupče,
         instructions: Molimo Vas da pregledate i sačuvate sljedeće podatke o narudžbi
           za svoju evidenciju.
         order_summary: Sažetak narudžbe
@@ -2108,7 +2108,7 @@ hr:
     shipment_details: Iz %{stock_location} putem %{shipping_method}
     shipment_mailer:
       shipped_email:
-        dear_customer: Poštovani kupče,\n
+        dear_customer: Poštovani kupče,
         instructions: Vaša je narudžba poslana
         shipment_summary: Sažetak pošiljke
         shipping_method: 'Način dostave: %{shipping_method}'
