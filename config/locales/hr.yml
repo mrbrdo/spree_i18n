@@ -2174,7 +2174,7 @@ hr:
       short: Prikaži birač trgovine
     sign_in_with_provider: Prijavite se s %{provider}
     sign_out: Odjava
-    sign_up: Prijavi se
+    sign_up: Registracija
     site_name: Naziv web-mjesta
     size: Veličina
     sku: SKU

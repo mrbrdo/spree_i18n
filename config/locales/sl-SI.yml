@@ -2448,7 +2448,7 @@ sl-SI:
       short: Prikaži izbirnik trgovine
     sign_in_with_provider: Prijava z %{provider}
     sign_out: Odjava
-    sign_up: Prijavi se
+    sign_up: Registracija
     site_name: Ime spletnega mesta
     size: Velikost
     social: Družbeno
